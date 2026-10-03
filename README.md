@@ -6,7 +6,7 @@
 **Category:** Business Process Automation (Multi-Agent Systems + Agentic AI)
 **Built for:** Pak Angels – Generative & Agentic AI, Cohort 11 – 2nd Hackathon
 **Live demo:** `<paste your Streamlit Cloud link here>`
-**Team:** `<add team member names here>`
+
 
 ---
 
