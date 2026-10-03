@@ -1,0 +1,5 @@
+.env
+outbox/
+data/tickets.csv
+data/log.csv
+__pycache__/
