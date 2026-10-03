@@ -1,0 +1,10 @@
+ticket_id,received_at,customer,email,category,priority,status,message
+TKT-100302445737,2026-10-03T02:47:32.160338,Ali Khan,ali@example.com,technical,low,Resolved by AI,"I forgot my password, how can I reset it?"
+TKT-100302474403,2026-10-03T02:47:50.140219,Ali Khan,ali@example.com,technical,low,Resolved by AI,"I forgot my password, how can I reset it?"
+TKT-100302475014,2026-10-03T02:47:58.912515,Sara Ahmed,sara@example.com,billing,low,Resolved by AI,Please send me my invoice for last month.
+TKT-100302475891,2026-10-03T02:48:06.310446,Usman Raza,usman@example.com,general,low,Resolved by AI,What are your support timings?
+TKT-100302481319,2026-10-03T02:48:16.962147,Bilal Sheikh,bilal@example.com,technical,medium,Resolved by AI,The app crashes every time I open it since yesterday's update.
+TKT-100323415034,2026-10-03T23:41:57.712766,Ali Khan,ali@example.com,technical,medium,Resolved by AI,The app crashes every time I open it since yesterday's update.
+TKT-100323441641,2026-10-03T23:44:22.458392,Ali Khan,ali@example.com,general,low,Resolved by AI,What are your support timings?
+TKT-100323445337,2026-10-03T23:44:59.846450,Ali Khan,ali@example.com,technical,low,Resolved by AI,"I forgot my password, how can I reset it?"
+TKT-100323535143,2026-10-03T23:53:57.626297,Fiza Aslam,fiza123@gmail.com,billing,medium,Resolved by AI,i want refund of my esi product

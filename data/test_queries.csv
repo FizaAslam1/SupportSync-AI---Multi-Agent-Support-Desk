@@ -1,0 +1,8 @@
+id,name,email,message,expected_category,expected_path
+1,Ali Khan,ali@example.com,"I forgot my password, how can I reset it?",technical,Auto reply
+2,Sara Ahmed,sara@example.com,"Please send me my invoice for last month.",billing,Auto reply
+3,Usman Raza,usman@example.com,"What are your support timings?",general,Auto reply
+4,Hina Malik,hina@example.com,"I was charged twice and nobody is replying. This is unacceptable, I want my money back or I will go to court!",complaint,Escalate (high)
+5,Bilal Sheikh,bilal@example.com,"The app crashes every time I open it since yesterday's update.",technical,Auto reply
+6,Ayesha Noor,ayesha@example.com,"Can I change the delivery address of my custom order placed in Dubai branch?",general,Escalate (not in KB)
+7,Zain Ali,zain@example.com,"Your support staff was rude to me yesterday.",complaint,Escalate
