@@ -5,7 +5,7 @@
 
 **Category:** Business Process Automation (Multi-Agent Systems + Agentic AI)
 **Built for:** Pak Angels – Generative & Agentic AI, Cohort 11 – 2nd Hackathon
-**Live demo:** `https://supportsync-ai---multi-agent-support-desk-ohz25y2g7xz9nu9ekhzd.streamlit.app/`
+**Live demo:** https://supportsync-ai---multi-agent-support-desk-ohz25y2g7xz9nu9ekhzd.streamlit.app/
 
 
 ---
